@@ -1,8 +1,9 @@
 {
   "show": "yes",
-  "delay": 30,  // Ignoré ici (géré par C# timer), mais optionnel
+  "delay": 30,  
   "image_url": "https://raw.githubusercontent.com/elannouche/webgl/main/imag/bout.png",
   "title": "Essaie mon super jeu 🔥",
   "link_url": "https://www.google.com/",
   "button_text": "JOUER MAINTENANT"
+
 }
